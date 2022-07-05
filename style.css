@@ -11,6 +11,7 @@ h1{
 }
 section{
   display:flex;
+  margin-bottom: 20px;
 }
 
 }
@@ -36,3 +37,8 @@ p}
     images/top-banner.png);
   background-repeat:no-repeat;
 }
+.dream-big{
+  background-image: url(images/dream-bg.png);
+  background-position: right;
+
+background-repeat: no-repeat;}
